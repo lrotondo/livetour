@@ -1,0 +1,129 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_CF690276_EA64_CD0D_41E7_E9952FCEE643.source = https://walink.co/8d0a03
+LinkBehaviour_9E0DFB07_B0D7_AB8C_41CB_46E96261991F.source = https://walink.co/8d0a03
+LinkBehaviour_6AC73D12_7E05_E251_41B2_57D5E0EEF203.source = https://walink.co/8d0a03
+LinkBehaviour_9BE4C81B_B7D1_9584_41DF_5361530E2C5D.source = https://walink.co/8d0a03
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_6B40C184_7F1A_3F59_41D2_39A62073D269.toolTip = Ir a Habitaciones
+HotspotPanoramaOverlayArea_A99A33CF_A71C_7FAC_41B6_1EB1CF27DA02.toolTip = Ir a Habitaciones
+HotspotPanoramaOverlayArea_6B47C189_7F1A_3F6B_41AE_23743001B339.toolTip = Ir a Hall
+
+### URL
+overlay_8A367986_91D7_0AA3_41DC_DE9F9A1239BB.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+overlay_88A2215D_91EB_1BA1_41A3_715AD183C57B.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+overlay_88838CB8_91E9_0AEF_4151_137A6A4FE918.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+overlay_89AFCCCF_91E9_0AA1_41D6_DBA5022C4C5E.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+overlay_88430F7C_91EB_0667_41A5_DCE42ACDF73D.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+overlay_88FEC30E_91E9_7FA3_41D1_2CD48F6415E1.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+overlay_9C1FC845_B031_758C_41E0_75C1A97527E3.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+overlay_9DE86DD1_B037_6E84_41E2_B2E147E64C60.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+overlay_9D8D4D17_B031_EF8C_41C8_219282792149.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+overlay_9D8DE453_B033_9D84_41D7_94711B6B51D0.url = //www.youtube.com/embed/DPTSeXaVU8Q?v=DPTSeXaVU8Q&t=60&autoplay=1&mute=1
+
+## Media
+
+### Audio
+audiores_CD58BD71_EA65_F707_41DE_08BF8816F65E.mp3Url = media/audio_CEFF4AE4_EA5C_5D0D_41A9_85369C2D1EDA_es.mp3
+audiores_CD58BD71_EA65_F707_41DE_08BF8816F65E.oggUrl = media/audio_CEFF4AE4_EA5C_5D0D_41A9_85369C2D1EDA_es.ogg
+
+### Título
+panorama_6F9F287E_7E0C_E2D1_41C0_C25931487707.label = Baño doble
+panorama_6F9F5F9E_7E0C_3E51_4195_91B0314710FC.label = Baño simple
+panorama_6F9F65CD_7E0C_6230_41B0_183C2657D58D.label = Comedor
+panorama_6F9F1152_7E0C_22D1_4196_24C778702046.label = Comedor 1
+panorama_6F9EFF47_7E0C_3E3F_41D2_3E89CF0CF324.label = Comedor 2
+panorama_6F9F0D34_7E0C_2251_41C8_4B2E0F7B39C4.label = Comedor 3
+panorama_6F911A30_7E03_E650_41DC_0E0052D3A3B2.label = Comedor 4
+panorama_6F911384_7E04_2631_41DF_06B2935DEDBD.label = Comedor 7
+panorama_6F91085E_7E03_E2D0_41D7_E0088A02DBD6.label = Comedor Ascensor
+panorama_6F9F23F6_7E0C_65D0_41C6_A88E6471D802.label = Comedor Escalera
+panorama_6F914560_7E04_22F1_41C7_6666F860841C.label = Comedor Ventana
+photo_93F1BDB3_B374_205A_41CD_2622A3DC9E09.label = Desktop (1)
+photo_93F1BDB3_B374_205A_41CD_2622A3DC9E09.label = Desktop (1)
+photo_AD338105_B374_203F_41D8_4E8CE4F4F67A.label = Desktop (2)
+photo_AD338105_B374_203F_41D8_4E8CE4F4F67A.label = Desktop (2)
+photo_AD35A334_B374_205E_41D4_E3A12E2583CF.label = Desktop (3)
+photo_AD35A334_B374_205E_41D4_E3A12E2583CF.label = Desktop (3)
+photo_AD3545CB_B374_23CA_4167_FC697B5261F3.label = Desktop (4)
+photo_AD3545CB_B374_23CA_4167_FC697B5261F3.label = Desktop (4)
+photo_AD3547EC_B374_2FCE_419B_BDCB40E6F1DA.label = Desktop (5)
+photo_AD3547EC_B374_2FCE_419B_BDCB40E6F1DA.label = Desktop (5)
+photo_AD356A15_B374_205E_41C8_9FA1226B3F92.label = Desktop (6)
+photo_AD356A15_B374_205E_41C8_9FA1226B3F92.label = Desktop (6)
+photo_AD354C5B_B374_20CA_41E6_2C8DEA47B613.label = Desktop (7)
+photo_AD354C5B_B374_20CA_41E6_2C8DEA47B613.label = Desktop (7)
+panorama_6F9FCCA9_7E0C_2273_41D8_744D5E200708.label = Habitacion Doble
+panorama_6F9FE9A0_7E0C_E271_41D5_16EB4346294B.label = Habitacion doble 2
+panorama_6F9F74A6_7E0C_6270_41D5_C4C25D88767E.label = Habitacion simple
+panorama_6F9F12B5_7E0C_2653_41D0_A93A353B4AF6.label = Habitacion simple 2
+panorama_6F9F1850_7E0C_62D0_41D5_40BB5D947333.label = Habitaciones
+panorama_6F9177A0_7E04_EE70_41CB_AFBE1A7F6ADF.label = Hall 1
+panorama_AD4E3CB4_B34C_E05E_41C7_DBB1FBAD3858.label = Hall Entrada
+panorama_6F9120C8_7E04_6231_41C2_1B6ABFCFCEB3.label = Hall Escalera
+photo_9115153E_B354_204A_41E3_09137559D116.label = IMG_1051 (1)
+photo_9115153E_B354_204A_41E3_09137559D116.label = IMG_1051 (1)
+photo_933DC90B_B354_204A_41E0_CB9F73FD1A54.label = IMG_1110
+photo_933DC90B_B354_204A_41E0_CB9F73FD1A54.label = IMG_1110
+panorama_6CB0C30F_7E0D_E64F_41D9_7A0AFD05BE6B.label = Pasilllo Piso 2
+panorama_660782B6_7E7C_2651_41B0_FECDD13A0A14.label = Pasillo
+
+panorama_6F9F4F12_7E0C_1E51_41CD_E1437F43DA1F.label = Pasillo Habitaciones
+panorama_6F9F2A65_7E0C_26F3_41C4_1DDC20BD67DF.label = Pasillo Habitaciones 2
+panorama_6F9DB155_7E0D_E2D3_41D0_249D5C131978.label = Piso 2
+panorama_6F918E53_7E04_1ED0_41D6_AEC5BC9B36C3.label = Recepcion 1
+panorama_6F91FCAB_7E04_2270_41DB_F6BF0F73A94F.label = Recepcion 2
+panorama_87C511AC_91D9_1AE7_41DD_FD84721FEF07.label = Recepción
+album_ACADA090_B354_E056_41D2_066087BB2E6B_0.label = mobile (1)
+album_ACADA090_B354_E056_41D2_066087BB2E6B_1.label = mobile (2)
+album_ACADA090_B354_E056_41D2_066087BB2E6B_2.label = mobile (3)
+album_ACADA090_B354_E056_41D2_066087BB2E6B_3.label = mobile (4)
+album_ACADA090_B354_E056_41D2_066087BB2E6B_4.label = mobile (5)
+album_ACADA090_B354_E056_41D2_066087BB2E6B_5.label = mobile (6)
+album_ACADA090_B354_E056_41D2_066087BB2E6B_6.label = mobile (7)
+album_9F60849E_8CB7_53D3_4189_16A0ADF2242C.label = Álbum de Fotos _HCV5622
+album_ACADA090_B354_E056_41D2_066087BB2E6B.label = Álbum de Fotos mobile (1)
+
+## Skin
+
+### Botón
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = CONTACTAR
+Button_CF6FA275_EA64_CD0C_41B6_320550D85F27_mobile.label = CONTACTAR
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = FOTOS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = FOTOS
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMACIÓN
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMACIÓN
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = RECORRELO 360°
+Button_CF57FDF5_EA5C_370F_41ED_1855E68215A7.label = RECORRELO 360°
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = SECTORES
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = SECTORES
+
+### Imágen
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_es.png
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_es.jpg
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_mobile_es.jpg
+Image_957C5162_B0D1_F784_41C3_D83138A29979.url = skin/Image_957C5162_B0D1_F784_41C3_D83138A29979_es.png
+Image_957C5162_B0D1_F784_41C3_D83138A29979_mobile.url = skin/Image_957C5162_B0D1_F784_41C3_D83138A29979_mobile_es.png
+Image_9AD74AFB_B0F0_EA84_41D3_852B91109CE8.url = skin/Image_9AD74AFB_B0F0_EA84_41D3_852B91109CE8_es.png
+Image_9AD74AFB_B0F0_EA84_41D3_852B91109CE8_mobile.url = skin/Image_9AD74AFB_B0F0_EA84_41D3_852B91109CE8_mobile_es.png
+Image_F461DAC1_DDB5_55D8_41E1_55DD5633F8A5.url = skin/Image_F461DAC1_DDB5_55D8_41E1_55DD5633F8A5_es.png
+Image_F461DAC1_DDB5_55D8_41E1_55DD5633F8A5_mobile.url = skin/Image_F461DAC1_DDB5_55D8_41E1_55DD5633F8A5_mobile_es.png
+Image_F549FC8F_DDB6_EC68_41D5_D5C7D6D48DDC.url = skin/Image_F549FC8F_DDB6_EC68_41D5_D5C7D6D48DDC_es.png
+Image_F549FC8F_DDB6_EC68_41D5_D5C7D6D48DDC_mobile.url = skin/Image_F549FC8F_DDB6_EC68_41D5_D5C7D6D48DDC_mobile_es.png
+
+### Texto Multilínea
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.899999999999999vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;font-family:'Exo';"><B><I>Hotel Delfín </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.07vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.45vw;font-family:'Exo';"><B><I>Ubicado en el microcentro de Mar delPlata a cuatro cuadras del mar y el Casino Central</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.378446115288221vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.38vw;font-family:'Exo';"><B>Servicios</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.0651629072681703vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.07vw;font-family:'Exo';">Habitaciones equipadas con TV por cable, DDI y DDN, calefacción, cochera cubierta, caja de seguridad, servicio de habitación. Desayuno buffer</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.378446115288221vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.38vw;font-family:'Exo';"><B>Contacto</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.0651629072681703vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.07vw;font-family:'Exo';">Dirección Rivadavia 2556</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.0651629072681703vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.07vw;font-family:'Exo';">Código Postal: B7600</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.0651629072681703vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.07vw;font-family:'Exo';">Teléfono: 223-6888385</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.0651629072681703vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.07vw;font-family:'Exo';">Email: info@hoteldelfin.com.ar</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.111111111111111vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:6.11vw;font-family:'Exo';"><B><I>Hotel Delfín </I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.07vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.888888888888886vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.89vw;font-family:'Exo';"><B><I>Ubicado en el microcentro de Mar delPlata a cuatro cuadras del mar y el Casino Central</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.444444444444445vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Exo';"><B>Servicios</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.888888888888886vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.89vw;font-family:'Exo';">Habitaciones equipadas con TV por cable, DDI y DDN, calefacción, cochera cubierta, caja de seguridad, servicio de habitación. Desayuno buffer</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.78vw;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444445vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Exo';"><B>Contacto</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.888888888888886vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.89vw;font-family:'Exo';">Dirección Rivadavia 2556</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.888888888888886vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.89vw;font-family:'Exo';">Código Postal: B7600</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.888888888888886vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.89vw;font-family:'Exo';">Teléfono: 223-6888385</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.888888888888886vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.89vw;font-family:'Exo';">Email: info@hoteldelfin.com.ar</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Hotel Delfin
